@@ -1,0 +1,25 @@
+{
+  "name": "minicurso",
+  "version": "1.0.0",
+  "description": "Minicurso fabiano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeferrari/minicursoJS.git"
+  },
+  "keywords": [
+    "minicurso",
+    "serio",
+    "fabiano",
+    "js"
+  ],
+  "author": "Guilherme Ferrari Bravin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermeferrari/minicursoJS/issues"
+  },
+  "homepage": "https://github.com/guilhermeferrari/minicursoJS#readme"
+}
