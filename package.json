@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/guilhermeferrari/minicursoJS/issues"
   },
-  "homepage": "https://github.com/guilhermeferrari/minicursoJS#readme"
+  "homepage": "https://github.com/guilhermeferrari/minicursoJS#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
